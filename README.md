@@ -207,5 +207,5 @@ Always update .env and other sensitive configs securely.
 
 Monitor logs using CloudWatch for troubleshooting.
 
-Let me know if you'd like a version in .md (Markdown) format instead of .txt!**
+
 
